@@ -1,5 +1,5 @@
 import Navbar from "../components/navbar";
-import { promises } from "node:dns"
+// import { promises } from "node:dns"
 import { resolve } from "node:path"
 
 export default async function Categories() {
