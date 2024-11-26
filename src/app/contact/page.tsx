@@ -1,6 +1,9 @@
 import Navbar from "../components/navbar";
 
 export default function Contact() {
+
+   throw new Error("Our contact page will be available soon")
+ ;
  
   return (
     <div>
